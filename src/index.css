@@ -1,0 +1,6 @@
+body {
+    background-image: url('bluenice.jpg');
+    background-size: cover; /* Ensures the image covers the whole page */
+    /* background-position: center; */
+    background-repeat: no-repeat; /* Prevents tiling of the image */
+}
